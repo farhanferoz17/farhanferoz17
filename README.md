@@ -5,8 +5,8 @@ He is a Lecturer in the Computer Science and Engineering department of BRAC Univ
 
 Skills: C++ / Python / Django / HTML / CSS / Java Script
 
-- 🔭 I’m currently working on a healthy lifestyle 
-- 🌱 I’m currently learning Quantum Computing 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Complexity Theory 
-- 📫 How to reach me: farhanferoz17@gmail.com 
+- 🔭 Currently working on a healthy lifestyle 
+- 🌱 Currently learning Quantum Computing 
+- 👯 Looking to collaborate on GitHub 
+- 💬 Ask him about Complexity Theory 
+- 📫 How to reach him: farhanferoz17@gmail.com 
